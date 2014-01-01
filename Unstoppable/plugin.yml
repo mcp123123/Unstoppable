@@ -1,0 +1,8 @@
+name: Unstoppable
+main: me.mcp123123.Kits.Kits
+version: 0.0.1
+description: >
+             Lots of random things just for the fun of it.
+commands:
+  GetKit:
+    description: Use the signs for it...
